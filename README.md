@@ -2,7 +2,7 @@ web_scrap_101
 scrap imdb top movies
 
 Install
-https://github.com/pranish33/web_scrap_101.git
+https://github.com/Subitskya/web_scrap101
 
 cd web_scrap_101
 
